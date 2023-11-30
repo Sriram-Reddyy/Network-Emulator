@@ -1,9 +1,4 @@
-# Network-Emulator
-# Project 2: Network Emulator
-
-## Team Members
-- [Your Name]
-- [Team Member's Name (if applicable)]
+# Project : Network Emulator
 
 ## Project Overview
 The Network Emulator project involves developing a network emulator with two components: the implementation of the emulator and a research-style report. The emulator simulates networking devices such as bridges, switches, and routers. The report details the design, development, and evaluation of the emulator.
@@ -14,6 +9,8 @@ The Network Emulator project involves developing a network emulator with two com
 3. Understanding packet forwarding in networks.
 4. Experiencing team software development.
 5. Writing a research-style paper.
+
+![Alt text](<Screenshot 2023-11-30 160526.png>)
 
 ### Components
 #### Component 1: Network Emulator Development (Worth 20%)
