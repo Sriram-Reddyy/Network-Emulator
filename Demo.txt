@@ -1,0 +1,9 @@
+bridge cs1 8
+bridge cs2 8
+bridge cs3 8
+station -route ifaces.r1 rtable.r1 hosts
+station -route ifaces.r2 rtable.r2 hosts
+station -no ifaces.a rtable.a hosts
+station -no ifaces.b rtable.b hosts
+station -no ifaces.c rtable.c hosts
+station -no ifaces.d rtable.d hosts
